@@ -1,4 +1,4 @@
-![](/banner03.png)
+![](/banner03.gif)
 
 ### Hi there 👋, Welcome to my Github! 🤓 
 
