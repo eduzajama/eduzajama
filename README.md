@@ -2,7 +2,7 @@
 
 ### Hi there 👋, Welcome to my Github! 🤓 
 
-### -🧑‍💻 I’m currently learning Blockchain Development. 
+### -🧑‍💻 Interested in Blockchain Development. 
 
 ### -📚📖🖊️ Helping other Developers to learn English.
 
